@@ -1,0 +1,14 @@
+ALL CLEANING – GITHUB UPLOAD
+
+1. Pak deze ZIP uit.
+2. Open de uitgepakte map.
+3. Selecteer ALLES wat je daarin ziet:
+   index.html, assets, diensten, contact.html, offerte.html, enzovoort.
+4. Upload die bestanden rechtstreeks naar de hoofdmap van je GitHub-repository.
+5. Upload NIET de ZIP zelf en upload ook NIET de buitenste map.
+6. Ga daarna naar Settings > Pages:
+   Source: Deploy from a branch
+   Branch: main
+   Folder: /(root)
+
+De startpagina is index.html.
