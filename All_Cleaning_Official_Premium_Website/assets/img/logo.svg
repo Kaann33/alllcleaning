@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="170" viewBox="0 0 680 170">
+<rect width="680" height="170" rx="24" fill="#ffffff"/>
+<g transform="translate(24,25)">
+  <circle cx="56" cy="56" r="50" fill="#0B3348"/>
+  <path d="M26 70 C45 43, 73 34, 101 48 C77 50, 56 60, 38 82 C32 84, 27 79, 26 70Z" fill="#53C8B5"/>
+  <path d="M36 43 C50 22, 71 16, 91 23 C70 28, 53 39, 41 55 C36 55, 33 49, 36 43Z" fill="#A6E9DE"/>
+  <circle cx="83" cy="37" r="7" fill="#ffffff"/>
+  <circle cx="97" cy="25" r="4" fill="#ffffff"/>
+</g>
+<text x="150" y="72" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="54" fill="#0B3348">ALL CLEANING</text>
+<text x="153" y="112" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="20" letter-spacing="3" fill="#387C91">PROFESSIONELE SCHOONMAAK</text>
+</svg>
